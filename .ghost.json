@@ -1,0 +1,10 @@
+    {
+        "development": {
+            "apiUrl": "https://benwiki.herokuapp.com",
+            "contentApiKey": "a424e5451f48fbca01177827d4"
+        },
+        "production": {
+            "apiUrl": "https://benwiki.herokuapp.com",
+            "contentApiKey": "a424e5451f48fbca01177827d4"
+        }
+    }
